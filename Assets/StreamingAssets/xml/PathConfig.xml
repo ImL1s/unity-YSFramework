@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathConfig  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Content Name="SingletonName" Value="[Unity Singletion]" />
+	<Content Name="KanaTextPath" Value="Text/Kana" />
+	<Content Name="RomanTextPath" Value="Text/Roman" />
+	<Content Name="ResourcesAudioPath" Value="Audio/" />
+	<Content Name="ResourceDefaultAudioPath" Value="Audio/Button" />
+</PathConfig>

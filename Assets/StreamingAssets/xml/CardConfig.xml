@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CardConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Content ID="-2" Name="未擁有" ImageName="" Description="尚未擁有這套服裝唷" />
+	<Content ID="-1" Name="COMING SOO" ImageName="" Description="這套服裝近期將會推出。" />
+	<Content ID="0" Name="和服" ImageName="kimono" Description="最基本的和服。穿在五十嵐櫻身上，別有一番風味。據說手上的丸子是櫻花口味。" Price="1" />
+	<Content ID="1" Name="水手服" ImageName="sailorSuit" Description="海軍風格的水手服。很搭配五十嵐櫻的特殊髮型呢。手上的古早味棒棒糖是用櫻花糖漿製成的。" Price="2" />
+	<Content ID="2" Name="女僕裝" ImageName="housemaidSuit" Description="凸顯腰線的女僕裝。五十嵐頭髮上的櫻花花瓣被遮住了呢。手上的叉子是用來餵主人吃櫻花蛋糕的喔。" Price="50" />
+	<Content ID="3" Name="裸體圍裙" ImageName="" Description="咦？這、這個……難、難不成是……（已擁有狀態）" UnOwnedDescription="咦？這、這個……難、難不成是……" Price="500" />
+</CardConfig>

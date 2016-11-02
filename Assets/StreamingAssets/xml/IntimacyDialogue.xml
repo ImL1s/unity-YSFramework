@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IntimacyDialogue  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group MinLevel="1" MaxLevel="3">
+		<Content Value="「我叫五十嵐櫻，請多指教。」" />
+		<Content Value="「我很喜歡吃甜食。」" />
+		<Content Value="「有一些五十音看起來、唸起來其實和中文字很像。要不要試試連想法呢？」" />
+		<Content Value="「跟著我一起唸：a、i、u、e、o…」" />
+		<Content Value="「我的頭髮？這是天生的喔。」" />
+		<Content Value="「最喜歡的漫畫？嗯，我想想…」" />
+		<Content Value="「什麼？」" />
+		<Content Value="「嗯？怎麼了？」" />
+	</Group>
+	<Group MinLevel="4" MaxLevel="10">
+		<Content Value="「妹妹總是搶我的蛋糕吃…」" />
+		<Content Value="「丸子串、棒棒糖、蛋糕、巧克力棒…這些都很好吃喔。」" />
+		<Content Value="「五十音圖通常只包含清音，不包含撥音ん呢。」" />
+		<Content Value="「我的頭髮？這是天生的喔。因為我的母親是…算了，沒什麼。」" />
+		<Content Value="「你喜歡吃甜食嗎？嗚，等等…先不要回答…！如果你說不喜歡我可是會一蹶不振的…」" />
+		<Content Value="「哪一件衣服比較好看呢…啊！等等！我還沒換好…！」" />
+		<Content Value="「書店？好呀！你要幫我選書嗎？」" />
+		<Content Value="「最喜歡的漫畫？嗯，我想想…」" />
+		<Content Value="「什麼？」" />
+		<Content Value="「呵呵，好癢。」" />
+		<Content Value="「嗯？怎麼了？」" />
+	</Group>
+
+</IntimacyDialogue>
